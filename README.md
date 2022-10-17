@@ -2,7 +2,7 @@
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
 ## My Project
-* New script to replace this script [`look here`](https://github.com/nazedev/naze) (`MULTI DEVICE `)
+* New script to replace this script [`look here`](https://github.com/FauziSlebew/Frifayer) (`MULTI DEVICE `)
 * WhatsApp Bot normal [`DikaArdnt/Hisoka-Morrow`](https://github.com/DikaArdnt/Hisoka-Morrow) (SC ORI)
 * WhatsApp Bot Multi Device [`DikaArdnt/Hisoka-Morou`](https://github.com/DikaArdnt/Hisoka-Morou)
 * WhatsApp Bot Using Library whatsapp-web.js [`hisoka-waweb.js`](https://github.com/Hisoka-Morrou/hisoka-waweb.js/)
@@ -16,8 +16,8 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 
 
 ```bash
-git clone https://github.com/nazedev/naze
-cd naze
+git clone https://github.com/FauziSlebew/Frifayer
+cd Frifayer
 npm install
 ```
 
@@ -37,8 +37,8 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/nazedev/naze
-cd naze
+git clone https://github.com/FauziSlebew/Frifayer
+cd Frifayer
 npm install
 ```
 
@@ -80,3 +80,5 @@ License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 Support Me:
 * [`Saweria`](https://saweria.co/didinsec
+* [`Instgram`](https://Instagram.com/fauzibeban__
+

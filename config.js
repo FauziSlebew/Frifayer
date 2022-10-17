@@ -17,11 +17,12 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281545463585','6287708357324']
-global.ownernomer = "6281545463585"
-global.premium = ['6281545463585']
-global.packname = 'Didin'
-global.author = 'DidinSec'
+global.owner = ['6287837703726','6287837703726']
+global.ownernomer = "6287837703726"
+global.premium = ['6287837703726']
+global.packname = 'Dibuat Oleh'
+global.didinbot = '𝙁𝙖𝙪𝙯𝙞𝘽𝙤𝙩𝙯-𝙈𝙙'
+global.author = '𝙁𝙖𝙪𝙯𝙞𝘽𝙤𝙩𝙯-𝙈𝙙'
 global.sessionName = 'didinsec'
 global.prefa = ['','!','.','#','&']
 global.tutorial = 'https://youtu.be/hHQRs_eCoXM'
@@ -44,6 +45,7 @@ global.limitawal = {
     free: 25
 }
 global.thumb = fs.readFileSync('./DidinMedia/didin.png')
+global.didinbc = fs.readFileSync('./DidinMedia/didinbc.png')
 global.rules = fs.readFileSync('./DidinMedia/rules.jpg')
 global.vaze = { url: 'https://telegra.ph/file/15209657f9d4f59c7ca1e.mp4' }
 
